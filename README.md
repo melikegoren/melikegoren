@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melike</h1>
 <h3 align="center">Jr. Android Developer</h3>
 
-- 🌱 I’m currently improving myself at **Android Development area.**
+- 🌱 I’m currently improving myself at **Android Development.**
 
 - 📫 How to reach me **melike.goren@outlook.com**
 
