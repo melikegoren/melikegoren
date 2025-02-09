@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Melike</h1>
-<h3 align="center">Jr. Android Developer</h3>
 
 - 📫 How to reach me **melike.goren@outlook.com**
 
